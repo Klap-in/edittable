@@ -1,8 +1,11 @@
 <?php
 
 /**
+ *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * 
+ *
+ *
+ * @author k <klapinklapin@gmail.com>
  * @author Robert Bogenschneider <bogi@uea.org>
  */
 $lang['secedit_name']          = 'Tabelo';
@@ -19,7 +22,5 @@ $lang['js']['row_below']       = 'Aldoni vicon sube';
 $lang['js']['col_left']        = 'Aldoni kolumnon maldekstre';
 $lang['js']['remove_col']      = 'Forigi kolumnon';
 $lang['js']['col_right']       = 'Aldoni kolumnon dekstre';
-$lang['js']['colspan_add']     = 'Kunfandi pli da kolumnoj';
-$lang['js']['colspan_del']     = 'Kunfandi malpli da kolumnoj';
-$lang['js']['rowspan_add']     = 'Kunfandi pli da vicoj';
-$lang['js']['rowspan_del']     = 'Kunfandi malpli da vicoj';
+$lang['js']['merge_cells']     = 'TEST2
+';
